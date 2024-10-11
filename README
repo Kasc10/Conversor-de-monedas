@@ -1,1 +1,14 @@
+# Conversor de Monedas
+
+Este es un conversor de monedas creado con IntelliJ utilizando una API.
+
+## Descripción
+
+Este proyecto permite a los usuarios convertir diferentes monedas utilizando una API externa que es Exchange-API. 
+
+## Funcionalidades
+
+* **Conversión de monedas:** Permite convertir entre diferentes monedas.
+* **Actualización de tipos de cambio:** Los tipos de cambio se actualizan automáticamente desde la API.
+La interfaz de usuario es fácil de usar 
 
